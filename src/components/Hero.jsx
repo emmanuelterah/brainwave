@@ -7,7 +7,7 @@ import { heroIcons } from "../constants";
 import { ScrollParallax } from "react-just-parallax";
 import Generating from "./Generating";
 import Notification from "./Notification";
-import CompanyLogos from "./CompanyLOgos";
+import CompanyLogos from "./CompanyLogos";
 
 const Hero = () => {
   const parallaxRef = useRef(null);
